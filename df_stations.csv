@@ -1,0 +1,173 @@
+address;id;latitude;longitude;name;number;total_bases;neighbours
+Puerta del Sol nº 1;1;40.4168961;-3.7024255;Puerta del Sol A;1a;24;Centro
+Puerta del Sol nº 1;2;40.4170009;-3.7024207;Puerta del Sol B;1b;24;Centro
+Calle Miguel Moya nº 1;3;40.4205886;-3.7058415;Miguel Moya;2;24;Centro
+Plaza del Conde Suchil nº 2-4;4;40.4302937;-3.7069171;Plaza Conde Suchil;3;18;Chamberí
+Calle Manuela Malasaña nº 5;5;40.4285524;-3.7025875;Malasaña;4;24;Centro
+Calle Fuencarral nº 108;6;40.4285280;-3.7020599;Fuencarral;5;27;Centro
+Calle Hortaleza nº 63;7;40.4241480;-3.6984470;Colegio Arquitectos;6;24;Centro
+Calle Hortaleza nº 75;8;40.4251906;-3.6977715;Hortaleza;7;21;Centro
+Plaza de Alonso Martínez nº 5;9;40.4278682;-3.6954403;Alonso Martínez;8;24;Chamberí
+Plaza de San Miguel nº 9;10;40.4156057;-3.7095084;Plaza de San Miguel;9;24;Centro
+Calle Marqués de la Ensenada nº 16;11;40.4250863;-3.6918807;Marqués de la Ensenada;10;24;Centro
+Calle San Andrés nº 18;12;40.4269483;-3.7035918;San Andrés;11;24;Centro
+Calle San Bernardo nº 85;13;40.4284246;-3.7061931;San Hermenegildo;12;24;Centro
+Calle Conde Duque nº 22;14;40.4273264;-3.7104417;Conde Duque;13;24;Centro
+Calle Ventura Rodríguez nº 2;15;40.4260957;-3.7134790;Ventura Rodríguez;14;24;Moncloa-Aravaca
+Calle San Vicente Ferrer nº 64;16;40.4261649;-3.7073764;San Vicente Ferrer;15;21;Centro
+Calle San Bernardo nº 22;17;40.4230721;-3.7075065;San Bernardo;16;21;Centro
+Plaza de Carlos Cambronero nº 2;18;40.4232649;-3.7038312;Carlos Cambronero;17;24;Centro
+Plaza de Pedro Zerolo;19;40.4207773;-3.6996502;Plaza de Pedro Zerolo;18;24;Centro
+Calle Prim nº 2;20;40.4218616;-3.6954983;Prim;19;24;Centro
+Calle Alcalá nº 49;21;40.4192342;-3.6954615;Banco de España A;20a;30;Centro
+Calle Montera nº 48;23;40.4197872;-3.7014814;Red de San Luis A;21a;24;Centro
+Calle Montera nº 47;24;40.4197204;-3.7015235;Red de San Luis B;21b;24;Centro
+Calle Jacometrezo nº 3;25;40.4200783;-3.7065376;Jacometrezo;22;24;Centro
+Plaza de Santo Domingo nº 1;26;40.4197429;-3.7080733;Santo Domingo;23;24;Centro
+Calle Carlos III nº 1;27;40.4182146;-3.7103538;Palacio de Oriente;24;24;Centro
+Plaza de Celenque nº 1;28;40.4173114;-3.7064809;Plaza de Celenque A;25a;24;Centro
+Plaza de Celenque nº 1;29;40.4172781;-3.7063837;Plaza de Celenque B;25b;24;Centro
+Plaza de las Salesas 7;30;40.423855;-3.694475;Plaza de las Salesas;26;24;Centro
+Calle Jesús nº 1;31;40.4132798;-3.6956178;Huertas;27;24;Centro
+Calle Alcalá nº 27;32;40.4181663;-3.6992600;Sevilla;28;24;Centro
+Calle del Marqués de Cubas nº 25;33;40.4162619;-3.6957355;Marqués de Cubas;29;24;Centro
+Calle Pavía nº 6;34;40.4192095;-3.7115040;San Quintín;30;27;Centro
+Calle Mayor nº 20;35;40.4163638;-3.7068969;Calle Mayor;31;27;Centro
+Plaza de la Provincia nº 1;36;40.4150099;-3.7061032;Plaza de la Provincia;32;18;Centro
+Calle Carretas nº 8;37;40.4157138;-3.7031808;Carretas;33;24;Centro
+Plaza de Jacinto Benavente;38;40.4146755;-3.7036825;Jacinto Benavente;34;24;Centro
+Plaza del Cordón nº 1;39;40.4141931;-3.7103285;Plaza del Cordón;35;24;Centro
+Plaza de Ramales nº 1;40;40.4167281;-3.7124038;Plaza de Ramales;36;24;Centro
+Plaza de San Francisco nº 5;41;40.4108442;-3.7144964;Plaza San Francisco;37;24;Centro
+Carrera de San Francisco nº 1;42;40.4110406;-3.7120734;Plaza de los Carros;38;24;Centro
+Plaza de la Cebada nº 16 ;43;40.4112744;-3.7088337;Plaza de la Cebada;39;27;Centro
+Plaza del Conde de Romanones nº 9;44;40.4138846;-3.7049407;Conde de Romanones;40;24;Centro
+Calle Atocha nº 54;45;40.4122047;-3.6991147;Antón Martín;41;21;Centro
+Calle Santa Isabel nº 32;46;40.4107085;-3.6982318;Santa Isabel;42;24;Centro
+Calle Lavapiés nº 34-36;47;40.4101564;-3.7025024;Jesús y María;43;24;Centro
+Calle Mesón de Paredes nº 35;48;40.4097617;-3.7040666;Plaza de Nelson Mandela;44;21;Centro
+Glorieta de la Puerta de Toledo nº 1;49;40.4070358;-3.7110513;Puerta de Toledo;45;21;Centro
+Calle Ribera de Curtidores nº 28;50;40.4053153;-3.7071259;Ribera de Curtidores;46;24;Arganzuela
+Glorieta de Embajadores nº 6;51;40.4047851;-3.7028265;Embajadores 1;47;24;Arganzuela
+Glorieta de Embajadores nº 2;52;40.4056107;-3.7022591;Embajadores 2;48;24;Centro
+Ronda de Atocha nº 34;53;40.4060941;-3.6992759;Casa Encendida;49;24;Centro
+Calle Santa Isabel nº 57;54;40.4083684;-3.6933463;Museo Reina Sofía;50;24;Centro
+Ronda de Atocha nº 2;55;40.4075606;-3.6935205;Ronda de Atocha;51;27;Arganzuela
+Plaza de Santa Ana nº 10;56;40.4144226;-3.7007164;Plaza de Santa Ana;52;24;Centro
+Calle Valencia nº 1;57;40.4089282;-3.7008803;Plaza de Lavapiés;53;24;Centro
+Calle Barceló nº 7;58;40.4266828;-3.7004230;Barceló;54;21;Centro
+Plaza de San Ildefonso nº 3;59;40.4239757;-3.7020842;Plaza de San Ildefonso;55;24;Centro
+Plaza del Carmen nº 1;60;40.4184192;-3.7032414;Plaza del Carmen ;56;24;Centro
+Calle Santa Cruz del Marcenado nº 24;61;40.4295658;-3.7126299;Santa Cruz del Marcenado;57;24;Centro
+Calle Augusto Figueroa nº 33;62;40.4222862;-3.6978950;Augusto Figueroa;58;24;Centro
+Calle Espíritu Santo nº 30;63;40.4255495;-3.7043418;Plaza de Juan Pujol;59;21;Centro
+Plaza de la Independencia nº 6;64;40.4197520;-3.6883980;Plaza de la Independencia;60;24;Retiro
+Calle O'Donnell nº 28;65;40.4213983;-3.6752045;Narváez;61;24;Retiro
+Calle O'Donnell nº 50;66;40.4213148;-3.6724968;O'Donnell;62;24;Retiro
+Calle Ibiza nº 62;67;40.4179237;-3.6708959;Ibiza;63;24;Retiro
+Calle Antonio Maura nº 15;69;40.4165605;-3.6904525;Antonio Maura;65;24;Retiro
+Calle Almadén nº 28;71;40.4108472;-3.6932250;Almadén;67;24;Centro
+Calle Espalter nº 1;72;40.4128372;-3.6912023;Espalter;68;21;Retiro
+Avenida de Alfonso XII nº 54;73;40.4098080;-3.6888220;Puerta del Ángel Caído;69;27;Retiro
+Avenida de Menéndez Pelayo nº 63;74;40.4153053;-3.6779232;Puerta del Doce de Octubre;70;24;Retiro
+Calle Doce de Octubre nº 28;75;40.4159569;-3.6738865;Doce de Octubre;71;24;Retiro
+Calle Doctor Esquerdo nº 99;76;40.4157413;-3.6691838;Sainz de Baranda;72;24;Retiro
+Avenida de Nazaret nº 7;77;40.4114475;-3.6689089;Plaza de los Astros;73;24;Retiro
+Avenida de Menéndez Pelayo nº 73;78;40.4117627;-3.6766813;Puerta del Pacífico ;74;24;Retiro
+Avenida de Menéndez Pelayo nº 90;79;40.4082805;-3.6784838;Menéndez Pelayo;75;24;Retiro
+Avenida del Mediterráneo nº 19;80;40.4076726;-3.6750121;Puerta de Mariano de Cavia;76;24;Retiro
+Plaza del Conde de Casal nº 8;81;40.4063500;-3.6704220;Conde de Casal;77;22;Retiro
+Calle Cerro de la Plata nº 2;82;40.4009101;-3.6744804;Pedro Bosch;78;24;Retiro
+Avenida de Menéndez Pelayo nº 38;83;40.4051451;-3.6803874;Puerta de Granada;79;24;Retiro
+Paseo de la Infanta Isabel nº 3;84;40.4075685;-3.6902255;Atocha A;80a;24;Arganzuela
+Paseo de la Infanta Isabel nº 3;85;40.4074902;-3.6901234;Atocha B;80b;27;Arganzuela
+Plaza del Emperador Carlos V nº 11;86;40.4092970;-3.6919870;Cuesta de Moyano;81;24;Retiro
+Calle Doctor Esquerdo nº 161;87;40.4084556;-3.6697526;Niño Jesús;82;24;Retiro
+Calle Pío Baroja nº 10;88;40.4130243;-3.6751105;Pío Baroja;83;24;Retiro
+Calle Doctor Esquerdo nº 191;89;40.4032501;-3.6726019;Valderribas;84;24;Retiro
+Avenida de Menéndez Pelayo nº 11;90;40.4215010;-3.6800080;Puerta de Madrid;85;27;Retiro
+Paseo del Prado nº 1;91;40.4186148;-3.6926217;Cibeles;86;21;Retiro
+Calle Ayala nº 44;92;40.4277360;-3.6832566;Ayala;87;24;Salamanca
+Calle Velázquez nº 75;93;40.4313576;-3.6838303;Embajada de Italia;88;24;Salamanca
+Calle Ayala nº 102;94;40.4272582;-3.6752024;Conde Peñalver;89;24;Salamanca
+Calle Goya nº 18;95;40.4250361;-3.6837876;General Pardiñas;90;30;Salamanca
+Calle Hermosilla nº 70;96;40.4261340;-3.6787441;Príncipe de Vergara;91;24;Salamanca
+Calle Claudio Coello nº 45;97;40.4262945;-3.6865463;Claudio Coello;92;24;Salamanca
+Calle Goya nº 1;98;40.4257046;-3.6893698;Plaza de Colón;93;24;Salamanca
+Paseo de Recoletos nº 32-34;99;40.4226990;-3.6909648;Biblioteca Nacional;94;21;Salamanca
+Calle Claudio Coello nº 109;100;40.4226584;-3.6870548;Villanueva;95;24;Salamanca
+Calle Alcalá nº 111;101;40.4220640;-3.6821793;Castelló;96;27;Salamanca
+Avenida de Menéndez Pelayo nº 3;102;40.4226906;-3.6801307;Alcalá;97;27;Salamanca
+Plaza de Felipe II;103;40.4242625;-3.6753567;Plaza de Felipe II;98;24;Salamanca
+Calle Alcántara nº 2;104;40.4261851;-3.6738714;Alcántara;99;24;Salamanca
+Calle Goya nº 99;105;40.4248457;-3.6738635;Palacio de Deportes;100;24;Salamanca
+Calle Jorge Juan nº 131;106;40.4231526;-3.6691523;Jorge Juan;101;24;Salamanca
+Calle Alcalá nº 95;107;40.4211802;-3.6840229;Velázquez;102;24;Salamanca
+Calle Ortega y Gasset nº 6;108;40.4303057;-3.6865654;Ortega y Gasset;103;24;Salamanca
+Paseo de la Castellana nº 4;109;40.4268331;-3.6895336;Castellana;104;21;Salamanca
+Calle Serrano nº 54;110;40.4267905;-3.6873922;Serrano;105;24;Salamanca
+Calle Serrano nº 34;111;40.4251002;-3.6877227;Colón A;106a;18;Salamanca
+Calle Serrano nº 34;112;40.4249630;-3.6877450;Colón B;106b;18;Salamanca
+Calle Serrano nº 6;113;40.4215246;-3.6884369;Columela;107;24;Salamanca
+Calle Mártires Concepcionistas nº 2;114;40.4273005;-3.6706024;Mártires Concepcionistas;108;27;Salamanca
+Calle José Ortega y Gasset nº 30;115;40.4300481;-3.6816402;Marqués de Salamanca;109;24;Salamanca
+Paseo de Moret nº 2;116;40.4344969;-3.7206893;Moncloa;110;24;Moncloa-Aravaca
+Calle Arcipreste de Hita nº 12;117;40.4337322;-3.7175435;Arcipreste de Hita A;111a;24;Chamberí
+Calle Arcipreste de Hita nº 12;118;40.4337036;-3.7175115;Arcipreste de Hita B;111b;24;Chamberí
+Paseo de Moret nº 11;119;40.4325991;-3.7246532;Paseo de Moret;112;24;Moncloa-Aravaca
+Paseo del Pintor Rosales nº 38;120;40.4276570;-3.7205129;Pintor Rosales;113;24;Moncloa-Aravaca
+Calle Quintana nº 11-13;121;40.4277456;-3.7174158;Quintana;114;24;Moncloa-Aravaca
+Calle Evaristo San Miguel nº 2;122;40.4253944;-3.7170448;Ferraz;115;24;Moncloa-Aravaca
+Plaza de España;123;40.4240200;-3.7116030;Plaza de España A;116a;24;Moncloa-Aravaca
+Plaza de España;124;40.4241200;-3.7117030;Plaza de España B;116b;24;Moncloa-Aravaca
+Calle Altamirano nº 24;125;40.4309797;-3.7188898;Altamirano;117;24;Moncloa-Aravaca
+Calle Juan Martín el Empecinado nº 14;126;40.4007810;-3.6882407;Juan Martín;118;24;Arganzuela
+Calle Méndez Álvaro nº 11;127;40.4013216;-3.6863218;Méndez Álvaro;119;24;Arganzuela
+Calle Palos de la Frontera nº 40;128;40.4032208;-3.6944768;Palos de la Frontera;120;24;Arganzuela
+Paseo de Santa María de la Cabeza nº 58;129;40.4017926;-3.6987665;Santa María de la Cabeza;121;24;Arganzuela
+Calle Santa Engracia nº 14;130;40.4295863;-3.6963983;Santa Engracia 14;122;24;Chamberí
+Calle Guzmán el Bueno nº 2;131;40.4306458;-3.7133412;Guzmán el Bueno;123;24;Chamberí
+Calle Manuel Silvela nº 20;169;40.4309524;-3.6993465;Manuel Silvela;124;24;Chamberí
+Calle Fernández de la Hoz nº 29;164;40.4352850;-3.6948626;General Martínez Campos ;125;24;Chamberí
+Calle del General Álvarez de Castro nº 2;163;40.4344731;-3.7015686;General Álvarez de Castro;126;24;Chamberí
+Calle Fernando el Católico nº 19;168;40.4338516;-3.7084390;Fernando el Católico;127;24;Chamberí
+Calle Cea Bermúdez nº 59;160;40.4389940;-3.7154329;Cea Bermúdez;128;27;Chamberí
+Calle José Abascal nº 33;161;40.4385316;-3.6982209;José Abascal;129;24;Chamberí
+Calle Santa Engracia nº 127;157;40.4413860;-3.7016321;Santa Engracia 127;130;20;Chamberí
+Calle Bravo Murillo nº 44;156;40.4412115;-3.7039582;Bravo Murillo 44;131;24;Chamberí
+Calle Santa Engracia nº 168;149;40.4463667;-3.7036675;Glorieta de los Cuatro Caminos;132;24;Chamberí
+Calle Raimundo Fernández Villaverde nº 33-35;150;40.4471250;-3.7001669;Raimundo Fernández;133;24;Tetuán
+Calle María de Guzmán nº 58;153;40.4440297;-3.6956047;Agustín de Betancourt;134;24;Chamberí
+Plaza de San Juan de la Cruz nº 11;158;40.4415974;-3.6927821;Plaza de San Juan de la Cruz;135;24;Chamberí
+Paseo de la Castellana nº 106;151;40.4453307;-3.6908610;Castellana 106;136;24;Chamartín
+Plaza de la República Argentina nº 6-7;152;40.4454110;-3.6853312;Plaza de la República Argentina;137;24;Chamartín
+Paseo de la Castellana nº 67;154;40.4457414;-3.6917932;Paseo de la Castellana con Raimundo Fernández;138;24;Chamberí
+Calle José Gutiérrez Abascal nº 2;159;40.4396792;-3.6907784;José Gutiérrez Abascal ;139;24;Chamartín
+Calle Velázquez nº 130;162;40.4379444;-3.6828620;Velázquez 130;140;24;Chamartín
+Paseo de la Castellana nº 43;165;40.4355143;-3.6892368;Pº Castellana - Glorieta de Emilio Castelar;141;12;Chamberí
+Paseo de la Castellana nº 42;167;40.4334087;-3.6879154;Castellana 42;142;24;Salamanca
+Calle Diego de León nº 52;166;40.4345973;-3.6784920;Diego de León 52;143;24;Salamanca
+Calle Juan Bravo nº 50;170;40.4323655;-3.6758555;Juan Bravo 50;144;24;Salamanca
+Calle Ortega y Gasset nº 87;171;40.4298870;-3.6712823;Ortega y Gasset 87;145;24;Salamanca
+Calle María Francisca nº 1;155;40.4442258;-3.6787169;María Francisca 1;146;18;Chamartín
+Avenida del Doctor Arce nº 45;148;40.4483269;-3.6797296;Doctor Arce 45;147;24;Chamartín
+Calle Serrano nº 210;144;40.4510188;-3.6817962;Serrano 210;148;24;Chamartín
+Paseo de la Habana nº 42;146;40.4498613;-3.6881689;Paseo de la Habana 42;149;24;Chamartín
+Paseo de la Castellana nº 124;147;40.4488924;-3.6905604;Castellana frente a Hermanos Pinzón;150;24;Chamartín
+Calle Orense nº 12;145;40.4480662;-3.6952860;Orense 12;151;24;Tetuán
+Avenida del General Perón nº 1-4;142;40.4527164;-3.6990077;General Perón 1;152;24;Tetuán
+Avenida del General Perón nº 36;143;40.4522938;-3.6926510;General Perón con Poeta Joan Maragall;153;24;Tetuán
+Calle Orense nº 36;141;40.4548456;-3.6946218;Orense 36;154;24;Tetuán
+Calle del General Yagüe nº 57;139;40.4572824;-3.7009675;San Germán;155;24;Tetuán
+Calle Sor Ángela de la Cruz nº 2;140;40.4592351;-3.6915330;Sor Ángela de la Cruz;156;24;Tetuán
+Paseo de la Castellana nº 164;137;40.4591366;-3.6894151;Castellana 164;157;24;Chamartín
+Avenida de Alberto Alcocer nº 22;138;40.4585318;-3.6847150;Alberto Alcocer;158;24;Chamartín
+Paseo de la Habana nº 63;173;40.4543852;-3.6835926;Paseo de la Habana 63;159;24;Chamartín
+Calle Colombia nº 7;172;40.4572466;-3.6763439;Colombia;160;24;Chamartín
+Paseo de la Florida nº 8;132;40.4220812;-3.7218482;Paseo de la Florida;161;27;Moncloa-Aravaca
+Paseo de los Olmos nº 28;133;40.4034076;-3.7108108;Metro Pirámides;162;24;Arganzuela
+Paseo de la Esperanza nº 2;134;40.4035988;-3.7064516;Paseo de la Esperanza;163;21;Arganzuela
+Paseo de las Delicias nº 92-94;136;40.3972616;-3.6945025;Paseo de las Delicias;164;24;Arganzuela
+Paseo de la Chopera nº 14;135;40.3919385;-3.6971829;Entrada Matadero;165;27;Arganzuela
+Calle Segovia, 26;174;40.4138333;-3.7135833;Segovia 26;166;24;Centro
+Calle Segovia, 45;175;40.413736;-3.717487;Segovia 45;167;24;Arganzuela

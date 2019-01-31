@@ -1,1 +1,8 @@
-1
+:::Dataset:::
+Data about BiciMAD stations and trips are provided by the Empresa Municipal de Transportes de Madrid
+https://opendata.emtmadrid.es/Datos-estaticos/Datos-generales-(1)
+
+:::Diagram Structure:::
+The steps to build a Sankey diagram with Tableau was founded on this useful tread on Tableau Community
+Sankey diagram made of dynamically generated polygons
+https://community.tableau.com/thread/152115
